@@ -1,0 +1,1 @@
+# eslint-check-ids-in-elements-jsx
