@@ -1,0 +1,39 @@
+{
+  "name": "eslint-plugin-check-ids-in-elements-jsx",
+  "version": "1.0.0",
+  "description": "ES Lint plugin to check ids in elements react. Based in deprecated https://github.com/stwime/eslint-plugin-form-elements-have-ids",
+  "main": "lib/index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizwbr/eslint-plugin-check-ids-in-elements-jsx.git"
+  },
+  "author": "luizwbr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizwbr/eslint-plugin-check-ids-in-elements-jsx/issues"
+  },
+  "homepage": "https://github.com/luizwbr/eslint-plugin-check-ids-in-elements-jsx#readme",
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "mocha": "^9.2.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ]
+}
